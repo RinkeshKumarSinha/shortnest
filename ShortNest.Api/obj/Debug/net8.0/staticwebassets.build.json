@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "E4uyXdg4XziRQ1+GTHjHcxrlmDeGh6bGenN2CAAnQWI=",
+  "Source": "ShortNest.Api",
+  "BasePath": "_content/ShortNest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
