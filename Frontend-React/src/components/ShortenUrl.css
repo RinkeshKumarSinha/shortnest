@@ -1,0 +1,40 @@
+/* src/components/ShortenUrl.css */
+.shorten-url-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 500px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.input-field {
+  padding: 10px;
+  margin: 10px;
+  width: calc(100% - 40px);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.submit-button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #21a1f1;
+}
+
+.result {
+  margin-top: 20px;
+  background-color: #e0f7fa;
+  padding: 10px;
+  border-radius: 5px;
+}
